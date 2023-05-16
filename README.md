@@ -5,8 +5,9 @@
 - Priyank Viradia (PDV8883)
 
 ## Objective:
-- Identifying the preferable place in NYC for students to live in terms of crime and
-transportation using historic dataset provided NYC via their open data initiative.  
+- Identify the preferable place in NYC for students to live in terms of crime and transportation
+using historic dataset provided by NYC via their open data initiative and daily rental price
+obtained from Airbnb
 
 ## Data Sets:
 - https://opendata.cityofnewyork.us/
@@ -35,3 +36,4 @@ Potentially ML classification problem that could leverage common python ML libra
 - We believe that MTA buses are not going to be a primary mode of transportation for
 students as it is heavily dependent on traffic and frequency. It also requires more time to
 commute than local and express trains
+-we have to include a lookup csv for connecting turnstile and subway station csv on complexd-id.
